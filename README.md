@@ -20,7 +20,7 @@ passionate about leading multidisciplinary teams to create products that not onl
 
 * **Email:** [jjsebastianfuertes@gmail.com](mailto:jjsebastianfuertes@gmail.com)
 * **LinkedIn:** [@jjsebastianfuertes](https://www.linkedin.com/in/jjsebastianfuertes/)
-* **Twitter:** [@jjsebastianf](https://x.com/jjsebastianf)
+* **X:** [@jjsebastianf](https://x.com/jjsebastianf)
 
 ### 🌱 Currently Learning
 
