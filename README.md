@@ -13,7 +13,7 @@ passionate about leading multidisciplinary teams to create products that not onl
 
 * **Personal Projects:**
   * **Merkat:** Fresh fruits and vegetables, delivered to your door. A dark store, e-commerce platform, and specialized logistics ensure high-quality produce in hard-to-reach areas while reducing food waste.
-  * **FORMA:** A comprehensive construction solutions provider. Where you can find equipment rental, material sales, and construction services to meet all your building needs.
+  * **FS:** A comprehensive construction solutions provider. Where you can find equipment rental, material sales, and construction services to meet all your building needs.
   * **TheGuide:** Discover the world with AI. A virtual guide that provides personalized recommendations, visual identification, and in-depth information, making your travels more enriching.
   
 ### 📫 Let's Connect
