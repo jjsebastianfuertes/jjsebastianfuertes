@@ -5,8 +5,8 @@ passionate about leading multidisciplinary teams to create products that not onl
 
 ## 🛠️ Tech Stack
 
-* **Programming Languages:** [Javascript, Dart, NodeJS, Python, SQL]
-* **Frameworks/Libraries:** [Flutter, React, NextJS]
+* **Programming Languages:** [Javascript, Dart, NodeJS, PHP, SQL]
+* **Frameworks/Libraries:** [Flutter, React, Vue, NextJS, Laravel]
 * **Tools:** [Git, GCP, AWS]
 
 ## 📈 My Work
