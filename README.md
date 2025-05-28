@@ -13,7 +13,7 @@ passionate about leading multidisciplinary teams to create products that not onl
 
 - **Personal Projects:**
 
-  - [**Quipo:**](https://www.merkat.store) Quipo is a logistics platform designed to bridge the gap between the Galapagos Islands and the rest of the world. We provide a seamless solution to receive a wide variety of products efficiently and reliably, ensuring that living in paradise doesn't mean compromising on access to what you need.
+  - [**Quipo:**](https://www.merkat.store) is a logistics platform designed to bridge the gap between the Galapagos Islands and the rest of the world. We provide a seamless solution to receive a wide variety of products efficiently and reliably, ensuring that living in paradise doesn't mean compromising on access to what you need.
 
   - [**FS:**](https://www.fsconstructora.com) A comprehensive construction solutions provider. Where you can find equipment rental, material sales, and construction services to meet all your building needs.
 
