@@ -13,8 +13,10 @@ passionate about leading multidisciplinary teams to create products that not onl
 
 - **Personal Projects:**
 
-  - [**Merkat:**](https://www.merkat.store) Fresh fruits and vegetables, delivered to your door. A dark store, e-commerce platform, and specialized logistics ensure high-quality produce in hard-to-reach areas while reducing food waste.
+  - [**Quipo:**](https://www.merkat.store) Quipo is a logistics platform designed to bridge the gap between the Galapagos Islands and the rest of the world. We provide a seamless solution to receive a wide variety of products efficiently and reliably, ensuring that living in paradise doesn't mean compromising on access to what you need.
+
   - [**FS:**](https://www.fsconstructora.com) A comprehensive construction solutions provider. Where you can find equipment rental, material sales, and construction services to meet all your building needs.
+
   - [**Live Pahoehoe:**](https://www.livepahoehoe.com) was founded with a simple yet powerful
     vision: to enable location-flexible professionals to seamlessly
     integrate work and life while experiencing the rich beauty and
