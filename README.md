@@ -5,7 +5,7 @@ passionate about leading multidisciplinary teams to create products that not onl
 
 ## 🛠️ Tech Stack
 
-- **Programming Languages:** [Javascript, Dart, PHP, SQL]
+- **Programming Languages:** [JavaScript, Dart, PHP, SQL]
 - **Frameworks/Libraries:** [Flutter, NextJS, Laravel, Vue]
 - **Tools:** [Git, GCP, AWS]
 
@@ -13,16 +13,16 @@ passionate about leading multidisciplinary teams to create products that not onl
 
 - **Personal Projects:**
 
-  - [**Quipo:**](https://www.merkat.store) is a logistics platform designed to bridge the gap between the Galapagos Islands and the rest of the world. We provide a seamless solution to receive a wide variety of products efficiently and reliably, ensuring that living in paradise doesn't mean compromising on access to what you need.
+  - [**Quipo:**](https://www.quipo.delivery) is a logistics platform designed to bridge the gap between the Galapagos Islands and the rest of the world. We provide a seamless solution to receive a wide variety of products efficiently and reliably, ensuring that living in paradise doesn't mean compromising on access to what you need.
 
-  - [**FS:**](https://www.fsconstructora.com) A comprehensive construction solutions provider. Where you can find equipment rental, material sales, and construction services to meet all your building needs.
+  - [**Studio Nativa:**](https://www.studionativa.com) A comprehensive architectural & construction solutions provider. Where you can find equipment rental and construction services to meet all your building needs.
 
   - [**Live Pahoehoe:**](https://www.livepahoehoe.com) was founded with a simple yet powerful
     vision: to enable location-flexible professionals to seamlessly
     integrate work and life while experiencing the rich beauty and
-    culture of Ecuador.
+    culture of Galapagos.
 
-  - **TheGuide:** Discover the world with AI. A virtual guide that provides personalized recommendations, visual identification, and in-depth information, making your travels more enriching.
+  - **TheGuide** by [**Turismo Paradise:**](https://www.turismoparadise.com) Discover the world with AI. A virtual guide that provides personalized recommendations, visual identification, and in-depth information, making your travels more enriching.
 
 ### 📫 Let's Connect
 
