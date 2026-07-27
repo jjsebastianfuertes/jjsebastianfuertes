@@ -22,7 +22,6 @@ passionate about leading multidisciplinary teams to create products that not onl
 
   - [**Røky:**](https://www.rokytraining.com) A training app purpose-built for climbers. Featuring Tabata-style workouts, pre-exercise loading protocols, and structured training plans — designed to solve the lack of sport-specific, science-backed training tools available to the climbing community.
 
-  - [**Nos llego la Tarde:**](https://www.nosllegolatarde.com) A geriatric medicine platform that shares clinical knowledge and practical guidance to improve elderly care across Ecuador and Latin America. Addressing the gap in accessible, specialized geriatric education for both healthcare professionals and caregivers.
 
 ### 📫 Let's Connect
 
